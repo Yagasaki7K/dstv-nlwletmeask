@@ -1,7 +1,5 @@
-# Next Level Week - Liftoff
-A experience for Next Level Week v6 - A Liftoff Project (ReactJS)
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Yagasaki7K/website-nlwliftoff/7e50e74c35f403ea7ef94d094409c38ed9dee3a0/public/logo.svg" alt="Podcastr" width="300"/>
+   <img src="https://raw.githubusercontent.com/Yagasaki7K/website-nlwliftoff/7e50e74c35f403ea7ef94d094409c38ed9dee3a0/public/logo.svg" alt="Liftoff" width="300"/>
 </p>
 
 <p align="center">	
@@ -22,8 +20,6 @@ A experience for Next Level Week v6 - A Liftoff Project (ReactJS)
     <img alt="Stargazers" src="https://img.shields.io/github/stars/Yagasaki7K/website-nlwliftoff?color=5863d2&logo=github">
   </a>
 </p>
-
-> :rocket: Podcastr is a project to help people to make more exercises. Next Level Week #05 #NLW @Rocketseat
 
 <div align="center">
   <sub>The NLW #6 project. Built with ❤︎ by
