@@ -46,11 +46,9 @@
 # :computer: Technologies
 This project was made using the follow technologies:
 
+* [React](https://reactjs.org/)  
 * [Typescript](https://www.typescriptlang.org/)      
-* [React](https://reactjs.org/)      
-* [Next.js](https://nextjs.org/)      
 * [Firebase](https://firebase.google.com/)
-     
 
 # :rocket: Features
 
