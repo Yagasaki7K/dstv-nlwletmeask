@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/Yagasaki7K/website-nlwletmeask/7e50e74c35f403ea7ef94d094409c38ed9dee3a0/public/logo.svg" alt="Letmeask" width="300"/>
+   <img src="https://raw.githubusercontent.com/Yagasaki7K/website-nlwletmeask/ff548d0c9375da2f87a0d3214dea73c1a560c766/src/assets/images/logo.svg" alt="Letmeask" width="300"/>
 </p>
 
 <p align="center">	
